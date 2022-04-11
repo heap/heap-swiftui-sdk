@@ -12,13 +12,13 @@ let package = Package(
       )
   ],
   dependencies: [
-    .package(url: "https://github.com/heap/heap-ios-sdk.git", from: "9.0.0-alpha.1"),
+    .package(url: "https://github.com/heap/heap-ios-sdk.git", from: "9.0.0-alpha.2"),
   ],
   targets: [
     .binaryTarget(
       name: "Heap_SwiftUI",
-      url: "https://cdn.heapanalytics.com/ios/heap-swiftui-0.0.0-alpha.3.zip",
-      checksum: "f9082aeac754338e3ed8b867389fac05e3c892fc0b673471a82717c1bae8ea32"
+      url: "https://cdn.heapanalytics.com/ios/heap-swiftui-0.0.0-alpha.4.zip",
+      checksum: "7372e5bc693ea2ae2214932eb831031394b81d4d482c2ad24dca81e9536af6cc"
     ),
   ]
 )
