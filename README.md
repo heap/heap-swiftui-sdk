@@ -1,3 +1,7 @@
+***
+:warning: **Due to breaking changes in iOS 16, we do not yet recommend using this SDK in production.**
+***
+
 # Heap for SwiftUI on iOS
 
 *Heap is a modern take on analytics.* There's no need to ship event tracking
