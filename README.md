@@ -1,5 +1,5 @@
 ***
-:warning: **Due to breaking changes in iOS 16, we do not yet recommend using this SDK in production.**
+:warning: **Due to breaking changes in iOS 16, we do not yet recommend using this SDK in production.** The [Heap iOS SDK](https://github.com/heap/heap-ios-sdk) _is_ compatible with iOS 16 when autocapturing UIKit events and precision manual tracking.
 ***
 
 # Heap for SwiftUI on iOS
